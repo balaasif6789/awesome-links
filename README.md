@@ -12,3 +12,5 @@ Awesome threat intelligence https://github.com/hslatman/awesome-threat-intellige
 Awesome CTFS https://github.com/apsdehal/awesome-ctf <br>
 Awesome appsec https://github.com/paragonie/awesome-appsec <br>
 Reversing https://github.com/tylerha97/awesome-reversing <br>
+Awesome OSINT https://github.com/jivoi/awesome-osint <br>
+AWesome Social engineering https://github.com/v2-dev/awesome-social-engineering <br>
