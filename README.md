@@ -16,3 +16,4 @@ Reversing https://github.com/tylerha97/awesome-reversing <br>
 Awesome OSINT https://github.com/jivoi/awesome-osint <br>
 AWesome Social engineering https://github.com/v2-dev/awesome-social-engineering <br>
 Awesome Asset discovery https://github.com/redhuntlabs/Awesome-Asset-Discovery <br>
+Awesome windows domain hardening https://github.com/PaulSec/awesome-windows-domain-hardening <br>
