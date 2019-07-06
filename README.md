@@ -4,6 +4,7 @@ All my links that I bookmark
 
 
 Amazing list of infosec resources https://github.com/rmusser01/Infosec_Reference <br>
+List of resurces  https://github.com/The-Art-of-Hacking/h4cker <br>
 Free books   https://github.com/Hack-with-Github/Free-Security-eBooks#network-pentesting <br>
 Awesome hacking https://github.com/Hack-with-Github/Awesome-Hacking <br>
 Awesome hacking resources https://github.com/vitalysim/Awesome-Hacking-Resources <br>
