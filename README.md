@@ -24,3 +24,4 @@ Awesome golang https://github.com/guardrailsio/awesome-golang-security <br>
 Awesome hacking https://github.com/jekil/awesome-hacking <br>
 Awesome python security https://github.com/guardrailsio/awesome-python-security <br>
 Awesome php security https://github.com/guardrailsio/awesome-php-security <br>
+Hacker resources https://github.com/sundowndev/hacker-roadmap <br>
