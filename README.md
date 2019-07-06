@@ -20,3 +20,4 @@ AWesome Social engineering https://github.com/v2-dev/awesome-social-engineering 
 Awesome Asset discovery https://github.com/redhuntlabs/Awesome-Asset-Discovery <br>
 Awesome windows domain hardening https://github.com/PaulSec/awesome-windows-domain-hardening <br>
 Awesome golang https://github.com/guardrailsio/awesome-golang-security <br>
+Awesome hacking https://github.com/jekil/awesome-hacking <br>
