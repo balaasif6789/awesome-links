@@ -7,6 +7,7 @@ All my links that I bookmark
 Free books   https://github.com/Hack-with-Github/Free-Security-eBooks#network-pentesting <br>
 Awesome hacking https://github.com/Hack-with-Github/Awesome-Hacking <br>
 Awesome hacking resources https://github.com/vitalysim/Awesome-Hacking-Resources <br>
+Awesome ethical hacking resources https://github.com/balaasif6789/Awesome-Ethical-Hacking-Resources
 Awesome infosec https://github.com/onlurking/awesome-infosec<br>
 Awesome pentest https://github.com/enaqx/awesome-pentest<br>
 Awesome web security https://github.com/qazbnm456/awesome-web-security <br>
